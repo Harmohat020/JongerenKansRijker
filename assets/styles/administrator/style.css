@@ -1,0 +1,17 @@
+body {
+  min-height: 75rem;
+  padding-top: 8.5rem;
+}
+
+.nav-link:hover {
+  color: #28a745 !important;
+}
+
+.nav-link.active {
+  color: #28a745 !important;
+}
+
+.company-title {
+  color: #28a745;
+}
+/*# sourceMappingURL=style.css.map */

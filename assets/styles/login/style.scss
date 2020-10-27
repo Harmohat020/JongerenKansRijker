@@ -1,0 +1,24 @@
+body,html{
+    background: linear-gradient(to right, #56ab2f, #a8e063)!important;
+  }
+.card{
+    width:25%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.alert{
+    z-index:2;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin: 10px 5px;
+  }
+  h2{
+      color: #28a745!important;
+      letter-spacing: 0.15rem;
+  }
